@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+// A decorated class is a class with extra features
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
